@@ -1,10 +1,10 @@
 # Ashley the Robot
 
-## Meet Ashley!
+### Meet Ashley!
 
 Ashley is a friendly little Arduino robot that can talk. Ashley can also sense the nearest object and turn to face that object.
 
-![Ashley](images/robot01.jpg)
+<img src="images/robot01.jpg" height="450"> 
 
 ## Design
 
